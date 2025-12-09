@@ -93,13 +93,4 @@ Whether you're a small business or part of a larger organization, **Librepim** g
 ### Conclusion
 
 **Librepim** is an open-source, community-driven project designed to maintain and improve the **Akeneo PIM Community Edition**. If you’re looking for long-term support, security updates, and a stable PIM solution, **Librepim** is the ideal choice for you. Join the **Librepim** community, contribute to its growth, and help ensure that the **Community Edition** continues to thrive.
-
----
-
-### Key Adjustments:
-
-1. **Community Focus**: Removed all references to "enterprise" and highlighted that **Librepim** is purely focused on maintaining and supporting the **Community Edition** of Akeneo.
-2. **Emphasis on Open-Source**: The README now emphasizes the open-source nature and community-driven development of the project.
-3. **Why Choose Librepim**: I rephrased this section to focus entirely on the benefits for the community, emphasizing that **Librepim** is a free, community-maintained solution for the long-term use of Akeneo PIM Community Edition.
-4. **License**: Retained the open-source **MIT License** note, which aligns with your focus on free and open-source software.
  
